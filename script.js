@@ -6,13 +6,9 @@ const typing = document.querySelector(".typing");
 
 const words = [
 
-    "Software Engineering Student",
-
     "Frontend Developer",
 
-    "AI Enthusiast",
-
-    "Problem Solver"
+    "AI Enthusiast"
 
 ];
 
